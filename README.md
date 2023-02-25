@@ -1,1 +1,9 @@
-# SAaD
+This project was a driver instruction program which hoped to take advantage of the gap in this specific education market. The system itself needed to be web-based and accessible to anyone with a computer or mobile device, as well as a stable internet connection. The system itself was supposed to perform various duties which include, but are not limited to, allowing employees to schedule lessons, register new customers, manage progress, and export data for offline viewing.&nbsp;
+
+I believe I managed to meet the client expectations in terms of system security and was able to create an environment which was fairly accessible to the general employee without an extensive technical background.&nbsp;
+
+Although I did meet all of needed business requirements, I believe that portion could have been improved by adding potential future additions to the project, thus allowing our company to retain them as a client for continued maintenance and any future needs in regards to expansion.&nbsp;
+
+We sat down in a face-to-face interview and went through all of their needs. We further questioned them on specifics to clarify matters which were unclear and then traversed that into the framework of the system's design when developing the initial system functional and non-functional requirements. This was an extremely important step, as with a shaky foundation, the remainder of the project would have been in jeopardy of having miscellaneous gaps which could have then let to delays in deployment or ultimate dissatisfaction by the client.&nbsp;
+
+More than anything, software design is dependent on the needs of the client and the resources available. The entire design aspect is then built off of these two main stepping stones. The specifics can vary, but there is generally always a stage where I would meet with the client and review their needs. This is followed by a discovery stage where we build the framework, which is then used to build the actual project. Following that we move on to testing and finally deployment and presentation to the client.&nbsp;
